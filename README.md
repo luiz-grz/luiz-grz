@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luiz Garcez
+# 👨‍💻 Luiz Garcez
 
 **`Desenvolvedor FullStack`**
 
