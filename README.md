@@ -7,7 +7,10 @@
 
 Me chamo Luiz Garcez, sou um estudante de 18 anos com habilidades em Desenvolvimento Web e estou evoluindo meus conhecimentos em redes. Curso Sistemas de Informação na Unilasalle RJ. Tenho foco em aprimorar minhas experiências e habilidades para desenvolver uma boa carreira profissional. Possuo um amplo histórico de projetos com foco em cunhos sociais e educacionais.
 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/luiz-eduardo-rocha-garcez-93b935343/">
+    <img alt="linkedin" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ### 🤖 Linguagens e Tecnologias
 
