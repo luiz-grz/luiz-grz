@@ -3,7 +3,7 @@
 <h1>👨‍💻 Luiz Garcez</h1>    
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FrontEnd`**
 
 Me chamo Luiz Garcez, sou um estudante de 18 anos com habilidades em Desenvolvimento Web e estou evoluindo meus conhecimentos em redes. Curso Sistemas de Informação na Unilasalle RJ. Tenho foco em aprimorar minhas experiências e habilidades para desenvolver uma boa carreira profissional. Possuo um amplo histórico de projetos com foco em cunhos sociais e educacionais.
 
